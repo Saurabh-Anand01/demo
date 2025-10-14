@@ -1,5 +1,5 @@
-a = 4
-b = 8
+a = 10
+b = 80
 print(a + b)
 print(a*b)
 print(a/b)
