@@ -1,5 +1,6 @@
 a = 4
 b = 8
-print(a + b)
-print(a*b)
-print(a/b)
+c = 5
+print(a + b + c)
+print(a*b*c)
+print(a/(b+c))
