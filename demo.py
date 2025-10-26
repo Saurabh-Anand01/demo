@@ -1,7 +1,7 @@
 a = 40
 b = 80
-c = 50
-d = 10
+c = 500
+d = 100
 print(a + b + c + d)
 print(a*b*c*d)
 print(a/(b+c+d))
